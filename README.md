@@ -1,2 +1,2 @@
 # CodeAtWork
-Record of all code I have work on beginning from 2023
+I meant to keep a record of some coding I have worked on beginning in 2023
